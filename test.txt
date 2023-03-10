@@ -1,0 +1,11 @@
+0 200 SteveJobs 140000 4 80 3 100
+0 20 GalGadot 140000 1 80 3 100
+1 22 PeterParker 175000 5 75 0 99 1
+2 26 NataliePortman 190000 6 86 0 100
+3 32 HughJackman 210000 5 5000000
+4 456 RobertDeNiro 50000 2 90 1
+0 201 BillGates 150000 1 80 3 100
+0 202 AlonMask 160000 1 80 3 100
+
+
+

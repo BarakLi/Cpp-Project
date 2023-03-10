@@ -1,0 +1,15 @@
+Menu options:
+
+Add employee
+Print employee info
+Search employee
+Promote employee
+Dismiss employee
+Write info to file
+Read info from file
+Print highest paid employee
+Print employee with most awards
+Print employee with highest assessment
+Print most senior employee
+Sort employees (by name, id, salary, seniority, awards, worker assessment, position)
+Update information
